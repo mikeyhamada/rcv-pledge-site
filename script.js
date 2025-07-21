@@ -1,4 +1,4 @@
-const GAS_BASE_URL = 'https://script.google.com/macros/s/YOUR_DEPLOYMENT_ID/exec';
+const GAS_BASE_URL = 'https://script.google.com/macros/s/AKfycbyF4LBXNbtDHxgam2n6VuEfrdp_o7wDECVlqjLeeN2tTSLZPpbU4bUXltf-yHl8ilIO/exec';
 
 document.addEventListener("DOMContentLoaded", () => {
   const editForm = document.getElementById("editForm");
